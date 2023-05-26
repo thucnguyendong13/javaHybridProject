@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ADMIND
+ *
+ */
+module javaHybridProject {
+}
