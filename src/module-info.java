@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ADMIND
- *
- */
-module javaHybridProject {
-}
